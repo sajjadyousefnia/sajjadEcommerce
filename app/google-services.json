@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "27256124828",
+    "firebase_url": "https://sajjadecommerce.firebaseio.com",
+    "project_id": "sajjadecommerce",
+    "storage_bucket": "sajjadecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27256124828:android:75670ca717f3cd6e",
+        "android_client_info": {
+          "package_name": "com.sajjady.sajjadecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27256124828-03e2s5sk4irpu601rktvmc74ouarekfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sajjady.sajjadecommerce",
+            "certificate_hash": "e3b90ead05756241b1b24e7f254096e25ec4c3a0"
+          }
+        },
+        {
+          "client_id": "27256124828-7jrfd2cscse41fnh0vd5e116ha6vaf24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFSFnYn4lXZR2ac0zIJF664OS3T9ikmdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27256124828-7jrfd2cscse41fnh0vd5e116ha6vaf24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
